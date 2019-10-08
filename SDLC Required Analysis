@@ -1,10 +1,25 @@
 Required Analysis
   Define:
-    Input
-    Processing
-    Output
-    Scope
-  What’s involved/ what’s not involved
-    What you want to accomplish
+    *Input
+      -Floor number requests
+      -Close Door
+      -open Door
+      -Request elevator
+      Optional:
+      -Emergency Stop
+      -Emergency Call
+      -Play Music
+    *Processing
+      -Determine method/ Process next request
+      -Method going up
+      -Method going down
+    *Output
+      -Current floor
+      -Next floor
+    *Scope
+      -10 floors
+      -1 Elevator
   Assumptions
     What is given
+      -Current floor
+      -Music
