@@ -1,10 +1,11 @@
 Required Analysis
   Define:
     *Input
+      -request elevator 
+      -Step in
       -Floor number requests
       -Close Door
       -open Door
-      -Request elevator
       Optional:
       -Emergency Stop
       -Emergency Call
